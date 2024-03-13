@@ -8,7 +8,7 @@ public class SwingVideoCtx extends ACtx {
    protected final CoreFrameworkSwingCtx cfc;
 
    public SwingVideoCtx(CoreFrameworkSwingCtx cfc) {
-      super(cfc.getUCtx());
+      super(cfc.getUC());
       this.cfc = cfc;
    }
    
