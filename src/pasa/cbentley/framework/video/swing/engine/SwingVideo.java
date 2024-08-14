@@ -3,7 +3,7 @@ package pasa.cbentley.framework.video.swing.engine;
 import com.sun.jna.Native;
 import com.sun.jna.NativeLibrary;
 
-import pasa.cbentley.framework.coreui.swing.engine.RealCanvasAWTCanvas;
+import pasa.cbentley.framework.core.ui.swing.engine.RealCanvasAWTCanvas;
 import pasa.cbentley.framework.video.swing.ctx.SwingVideoCtx;
 import uk.co.caprica.vlcj.binding.LibVlc;
 import uk.co.caprica.vlcj.medialist.MediaList;

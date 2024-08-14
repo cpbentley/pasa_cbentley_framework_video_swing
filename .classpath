@@ -6,19 +6,19 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_byteobjects_src4"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_core_src4"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_core_src5"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_j2se"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_src4"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_swing"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coredraw_j2se"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coredraw_src4"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coredraw_swing"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coreio_src4"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coreio_src5"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coreui_src4"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coreui_swing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_framework_j2se"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_framework_src4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_framework_swing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_draw_j2se"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_draw_src4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_draw_swing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_io_src4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_io_src5"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_ui_src4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_ui_swing"/>
 	<classpathentry kind="lib" path="libs/jna-4.1.0.jar"/>
 	<classpathentry kind="lib" path="libs/jna-platform-4.1.0.jar"/>
 	<classpathentry kind="lib" path="libs/vlcj-3.10.1.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_coreui_j2se"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/pasa_cbentley_framework_core_ui_j2se"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

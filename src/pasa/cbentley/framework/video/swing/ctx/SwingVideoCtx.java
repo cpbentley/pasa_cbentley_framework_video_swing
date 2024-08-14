@@ -1,7 +1,7 @@
 package pasa.cbentley.framework.video.swing.ctx;
 
 import pasa.cbentley.core.src4.ctx.ACtx;
-import pasa.cbentley.framework.core.swing.ctx.CoreFrameworkSwingCtx;
+import pasa.cbentley.framework.core.framework.swing.ctx.CoreFrameworkSwingCtx;
 
 public class SwingVideoCtx extends ACtx {
 

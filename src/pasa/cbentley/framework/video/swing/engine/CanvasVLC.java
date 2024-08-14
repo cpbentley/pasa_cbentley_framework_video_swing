@@ -1,9 +1,9 @@
 package pasa.cbentley.framework.video.swing.engine;
 
 import pasa.cbentley.byteobjects.src4.core.ByteObject;
+import pasa.cbentley.framework.core.ui.swing.ctx.CoreUiSwingCtx;
+import pasa.cbentley.framework.core.ui.swing.engine.CanvasHostSwing;
 import pasa.cbentley.framework.coredraw.src4.interfaces.IGraphics;
-import pasa.cbentley.framework.coreui.swing.ctx.CoreUiSwingCtx;
-import pasa.cbentley.framework.coreui.swing.engine.CanvasHostSwing;
 import pasa.cbentley.framework.video.swing.ctx.SwingVideoCtx;
 
 public class CanvasVLC extends CanvasHostSwing {
